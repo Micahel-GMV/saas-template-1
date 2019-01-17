@@ -4,6 +4,7 @@
 
 # Software Engineering Course project template
 
+
 ## Setup dev environment
 * Grab Ubuntu 16.04 based VM
 * Clone projects
